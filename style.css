@@ -9,7 +9,7 @@
 }
 
 .landing{
-	margin-top: -2%; 
+	margin-top: -2%;
 	text-align: center;
 
 }
@@ -283,12 +283,12 @@
   position: relative;
 	padding-bottom: 50%;
     z-index: 45845;
-		
+
 		display: flex;
 		margin: auto;
 }
 .pumbnail{
-	position: absolute;	
+	position: absolute;
 	background: inherit;
 	cursor: pointer;
 	border: none;
@@ -299,7 +299,7 @@
 	font-size: 100px;
 	color: white;
 	margin: auto;
-	
+
 }
 .video:active:after{
 	opacity: 0;
@@ -340,6 +340,7 @@ form{
 footer{
 	width:100%;
 	color:#ffb347;
+	font-family: Raleway-Bold;
 	padding:0;
 	margin:0;
 	font-size:20px;
